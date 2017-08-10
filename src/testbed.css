@@ -1,0 +1,13 @@
+body.tb {
+  margin: 10px;
+}
+
+.tb-intro-item {
+  text-align: center;
+}
+
+.tb-reference {
+  color: #767676;
+  font-size: 90%;
+  text-align: center;
+}
